@@ -44,4 +44,4 @@ if name == user_name:
             title("退出")
             use = False
 else:
-    print("没有查询到这个账号")
+    print("未查询到这个账号")
